@@ -1,2 +1,2 @@
 # Basiic-website
-This website is made using the tutorial videos provided by Traversy media 
+This website is created through html and css alone
